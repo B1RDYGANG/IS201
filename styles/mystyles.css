@@ -3,14 +3,24 @@ a {
     font-style: bold;
 }
 li {
-    font-size: 14px;
+    font-size: 18px;
     font-style: italic;
 }
 p {
     color:blue;
-    font-size: 16px;
+    font-size: 20px;
 }
 body {
     color:darkcyan;
     font-style: underline;
+}
+ul {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font
 }
